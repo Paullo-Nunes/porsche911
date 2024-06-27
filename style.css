@@ -157,18 +157,22 @@ html {
 
 .r1 {
     background-position: 0px 75%;
+    border-radius: 50%;
 }
 
 .r2 {
     background-position: 0px 87.5%;
+    border-radius: 50%;
 }
 
 .r3 {
     background-position: 0px 0%;
+    border-radius: 50%;
 }
 
 .r4 {
     background-position: 0px 100%;
+    border-radius: 50%;
 }
 
 .colecao-de-rodas li {
@@ -212,7 +216,7 @@ html {
         gap: 12px;
     }
     .fale-conosco {
-        bottom: 1rem;
+        bottom: 1.5rem;
         right: 1.5rem;
     }
 
@@ -255,7 +259,7 @@ html {
         margin: 0;
     }
     .fale-conosco {
-        bottom: 1rem;
+        bottom: 1.5rem;
         right: 1.5rem;
     }
     
@@ -278,7 +282,7 @@ html {
         background-size: 100%;
     }
     .fale-conosco {
-        bottom: 1rem;
+        bottom: 1.5rem;
         right: 1.5rem;
     }
     .fale-conosco img {
