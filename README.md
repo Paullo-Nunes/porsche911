@@ -7,8 +7,12 @@
  :computer:
 </p>
 
-##Logo abaixo segue um vídeo de apresentação da página
+##Logo abaixo segue um vídeo de apresentação da página.
 <hr>
 
 https://github.com/user-attachments/assets/c6f95f99-83ea-405f-b49c-cffa4881a5a0
+
+<h2>Descrição das Funcionalidades :hammer_and_wrench:</h2>
+
+##A dinâmica das funcionalidades se baseia na troca de cores do carro, das rodas e um destaque na imagem do carro quando o mouse está sobre a imagem.
 
